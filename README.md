@@ -112,12 +112,6 @@ The application follows the **Spring Boot Layered Architecture** pattern, ensuri
    - JDBC URL: `jdbc:h2:mem:studentdb`
    - Username: `sa`
    - Password: `[empty]`
-
-## Group Members
-- **Peter Gituya Ndono** - CS/MK/0792/09/23 (Team Lead)
-- **Rebecca Omoro** - CS/M/1387/09/23 (Backend Developer)
-- **Laura Chebet Langat** - CS/M/1655/09/23 (UI/UX Developer)
-
 ---
 
 *Developed for Advanced Web Development Coursework - Spring 2026*
